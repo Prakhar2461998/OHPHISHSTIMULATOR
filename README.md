@@ -1,2 +1,0 @@
-# OHPHISHSTIMULATOR
-Created with CodeSandbox
